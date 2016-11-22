@@ -9,7 +9,7 @@ usage example:
 
 ```
 python
-execfile('sd.py')
+exec(open('sd.py').read())
 ```
 * Call the function for example:
 
