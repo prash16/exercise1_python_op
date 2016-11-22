@@ -1,7 +1,9 @@
 # exercise1_python_op
 
 author:  Oliver Pringle
+
 purpose:   This repository is for the development of a python package which calculates standard deviation.
+
 usage example:
 
 * Navigate to the directory of the py script in the terminal
