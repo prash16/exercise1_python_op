@@ -15,6 +15,6 @@ pip install git+git://github.com/opringle/exercise1_python_op.git
 Calculating standard deviation via `standard_deviation()`:
 
 ```
-import exercise1_op
+from exercise1_op import standard_deviation
 standard_deviation([1,2,3,5])
 ```
