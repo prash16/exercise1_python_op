@@ -18,3 +18,12 @@ Calculating standard deviation via `standard_deviation()`:
 from exercise1_op import standard_deviation
 standard_deviation([1,2,3,5])
 ```
+
+
+Calculating standard error via `standard_error()`:
+
+```
+from exercise1_op import standard_error
+standard_error([3,5,6,8])
+```
+
