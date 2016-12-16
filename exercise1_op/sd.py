@@ -1,5 +1,5 @@
 def standard_deviation(x):
-    if n=1:
+    if len(x)=1:
         print("there is no standard deviation of 1 number")
     else:
         n = len(x)
